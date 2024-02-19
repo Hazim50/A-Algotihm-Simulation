@@ -40,7 +40,7 @@
     <li>Clone this repository to your local machine.</li>
     <li>Navigate to the project directory.</li>
     <li>Run the <code>main.py</code> script using Python: <code>python main.py</code>.</li>
-    <li>Follow the on-screen instructions to create mazes, set start and end points, and observe the algorithm's execution.</li>
+    <li>Follow the on-screen instructions to create mazes, set start and end points with left and right mouse clicks, and observe the algorithm's execution.</li>
 </ol>
 
 <h2>Dependencies</h2>
